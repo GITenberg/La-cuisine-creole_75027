@@ -1,5 +1,8 @@
 _repo: La-cuisine-creole_75027
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75027-h/images/cover.jpg
 creator:
   author:
     agent_name: Hearn, Lafcadio
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/368
     wikipedia: https://en.wikipedia.org/wiki/Lafcadio_Hearn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75027#La-cuisine-creole
 gutenberg_issued: '2025-01-03'
 gutenberg_type: Text
 identifiers:
